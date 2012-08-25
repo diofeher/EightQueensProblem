@@ -1,0 +1,12 @@
+﻿<xapCache source="C:\Users\Inocencio\Documents\Visual Studio 2010\Projects\PhoneApp2\PhoneApp2\Bin\Debug\PhoneApp2.xap" wasSigned="False" certificateThumbprint="" TimeStampUrl="" lastWriteTime="25/08/2012 16:48:09">
+  <file source="C:\Users\Inocencio\Documents\Visual Studio 2010\Projects\PhoneApp2\PhoneApp2\Bin\Debug\WMAppManifest.xml" archivePath="WMAppManifest.xml" lastWriteTime="24/08/2012 17:58:40" />
+  <file source="C:\Users\Inocencio\Documents\Visual Studio 2010\Projects\PhoneApp2\PhoneApp2\Background.png" archivePath="Background.png" lastWriteTime="24/08/2012 01:22:01" />
+  <file source="C:\Users\Inocencio\Documents\Visual Studio 2010\Projects\PhoneApp2\PhoneApp2\ApplicationIcon.png" archivePath="ApplicationIcon.png" lastWriteTime="24/08/2012 01:22:01" />
+  <file source="C:\Users\Inocencio\Documents\Visual Studio 2010\Projects\PhoneApp2\PhoneApp2\obj\Debug\PhoneApp2.dll" archivePath="PhoneApp2.dll" lastWriteTime="25/08/2012 16:48:07" />
+  <file source="c:\Program Files\Microsoft SDKs\Expression\Blend\Windows Phone\v7.1\Libraries\Microsoft.Expression.Drawing.dll" archivePath="Microsoft.Expression.Drawing.dll" lastWriteTime="17/08/2011 01:48:22" />
+  <file source="C:\Program Files\Microsoft SDKs\Windows Phone\v7.1\Libraries\Silverlight\Microsoft.Phone.Controls.dll" archivePath="Microsoft.Phone.Controls.dll" lastWriteTime="15/09/2011 15:36:26" />
+  <file source="C:\Program Files\Microsoft SDKs\Microsoft Data Framework\Phone\v7.1\bin\System.Data.Services.Client.dll" archivePath="System.Data.Services.Client.dll" lastWriteTime="22/08/2011 13:18:28" />
+  <file source="c:\Program Files\Microsoft SDKs\Expression\Blend\Windows Phone\v7.1\Libraries\System.Windows.Interactivity.dll" archivePath="System.Windows.Interactivity.dll" lastWriteTime="17/08/2011 01:48:22" />
+  <file source="C:\Users\Inocencio\Documents\Visual Studio 2010\Projects\PhoneApp2\PhoneApp2\SplashScreenImage.jpg" archivePath="SplashScreenImage.jpg" lastWriteTime="24/08/2012 01:22:01" />
+  <file source="C:\Users\Inocencio\Documents\Visual Studio 2010\Projects\PhoneApp2\PhoneApp2\Bin\Debug\AppManifest.xaml" archivePath="AppManifest.xaml" lastWriteTime="24/08/2012 18:49:42" />
+</xapCache>
